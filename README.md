@@ -30,6 +30,6 @@ Nous avons extrait dans la base de données les tables:
 
 - **Taux d’embauche vs AD (Taux d’embauche par rapport à l’année dernière) :** Comparer le taux d’embauche actuel avec celui de l’année précédente aide à évaluer l’efficacité des stratégies de recrutement et la trajectoire de croissance de l’entreprise.
 
-- **Embauche et Départ 12D mois (Embauches et départs au cours des 12 derniers mois) : ** Suivre les embauches et les départs sur une année donne une image claire de la dynamique de la main-d'œuvre et peut indiquer si l’entreprise est en croissance ou connaît un taux d’attrition élevé.
+- **Embauche et Départ 12D mois (Embauches et départs au cours des 12 derniers mois) :** Suivre les embauches et les départs sur une année donne une image claire de la dynamique de la main-d'œuvre et peut indiquer si l’entreprise est en croissance ou connaît un taux d’attrition élevé.
 
 - **%Nombre employé VS AD (Évolution du nombre d’employés par rapport à l’année dernière):** Suivre les changements dans le nombre total d’employés par rapport à l’année précédente aide à mesurer la croissance ou la contraction globale de la main-d'œuvre.
